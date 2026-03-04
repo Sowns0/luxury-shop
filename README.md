@@ -11,7 +11,7 @@ href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&family
 rel="stylesheet">
 
 <link rel="stylesheet" href="vip.css">
-<script src="vip.js" defer></script>
+<script src="index.js" defer></script>
 </head>
 
 <body>
